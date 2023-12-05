@@ -1,4 +1,4 @@
-import 'package:calculator/calculator.dart';
+import 'package:calculator/views/calculator.dart';
 
 class AppRoute {
   AppRoute._();
